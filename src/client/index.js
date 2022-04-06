@@ -10,4 +10,4 @@ import "./styles/header.scss"
 export {
     checkForURL,
     handleSubmit
-   }
+}
